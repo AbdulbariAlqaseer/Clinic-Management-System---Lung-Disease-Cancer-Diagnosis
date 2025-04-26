@@ -26,7 +26,7 @@ A smart medical system backend built with Django REST Framework for detecting lu
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/Clinic-Mangment.git
+   git clone https://github.com/AbdulbariAlqaseer/Clinic-Management-System---Lung-Disease-Cancer-Diagnosis.git
    ```
 2. **Install dependencies**
    ```bash
